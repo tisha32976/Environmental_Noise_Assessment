@@ -57,6 +57,6 @@ The study evaluates environmental noise levels, identifies critical noise hotspo
 
 ## Files Included
 ```text
-EIA survey camp grou.pdf
-final ppt.pdf
+EIA_Noise_report.pdf
+EIA_Noise_brief.pdf
 README.md
